@@ -1,0 +1,12 @@
+[submodule "skills/neko"]
+	path = skills/neko
+	url = https://github.com/wpy030414/neko.git
+	branch = main
+[submodule "skills/scaffold-docs"]
+	path = skills/scaffold-docs
+	url = https://github.com/wpy030414/scaffold-docs.git
+	branch = main
+[submodule "skills/xat"]
+	path = skills/xat
+	url = https://github.com/wpy030414/xat.git
+	branch = main
